@@ -172,6 +172,41 @@ main{
     font-size: 35px;
     line-height: 48px;
 }
+.total-experiance{
+    display: flex;
+}
+.experience{
+    margin: 30px 10px;
+    text-align: start;
+    background-color: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    
+    
+
+}
+
+.javascript{
+    margin: 15px 25px;
+    
+    padding: 5px;
+}
+
+.experiance-img{
+    margin: 10px 25px;
+}
+
+.experiance-description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
+.experiance-titale{
+    color: #181818;
+    font-weight: 400;
+    font-size: 20px;
+}
+
 
 
 
