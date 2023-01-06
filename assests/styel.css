@@ -21,17 +21,109 @@ nav{
 
 nav ul{
   display: flex;
+  align-items: center;
 }
 nav li{
     margin: 15px;
 }
 .btn-primary{
-    padding: 10px;
+    height: 64px;
+    border-radius: 5px;
     background-color: #FD6E0A;
-    color: aliceblue;
+    
     font-weight: 700;
     font-size: 20px;
+    padding: 18px 35px;
+    border: 0;
 }
 .btn-primary a{
     color: aliceblue;
 }
+.banner{
+    margin: 50px 200px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-sub-titale{
+    font-weight: 600;
+    font-size: 45px;
+    text-transform: capitalize;
+}
+
+.banner-titaale{
+    font-weight: 600;
+    font-size: 85px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.baner-discription{
+    color: #757575;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.header{
+    background-color: #fff8f3;
+    background-image: url(../assests/images/header_bg.png), url(../assests/images/developer.png);
+    background-position: bottom right, left;
+    background-repeat: no-repeat;
+}
+.btn{
+    display: flex;
+}
+.btn-secendary{
+    height: 64px;
+    border-radius: 5px;
+    background-color: solid transparent;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 18px 35px;
+    border: 1px solid #FD6E0A ;
+    
+}
+.btn-secendary a{
+    color: #FD6E0A;
+}
+
+.fa-solid.fa-phone{
+    color: #FD6E0A;
+    margin-right: 3px;
+}
+.fa-solid.fa-download{
+    color: white;
+    margin-right: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
