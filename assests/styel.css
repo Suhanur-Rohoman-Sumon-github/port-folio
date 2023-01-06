@@ -171,6 +171,7 @@ main{
     font-weight: 400;
     font-size: 35px;
     line-height: 48px;
+    text-transform: capitalize;
 }
 .total-experiance{
     display: flex;
@@ -206,9 +207,68 @@ main{
     font-weight: 400;
     font-size: 20px;
 }
+.resume-section{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
 
+}
+.my-eduction{
+    display: flex;
+    text-align: start;
+    border-bottom: 1px solid #D1D1D1;
+    margin-bottom: 15px ;
+}
+.resume-section-titale{
+    margin-bottom: 50px;
+   
+}
 
+.master{
+    
+    margin: 15px 15px;
+}
+.education-titale{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40.85px;
+    color: #474747;
 
+}
+.master-in{
+    font-weight: 400;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 20px;
+}
+
+.jr-fnt-end{
+    display: flex;
+    display: flex;
+    text-align: start;
+    border-bottom: 1px solid #D1D1D1;
+}
+.html-devloper{
+    display: flex;
+    display: flex;
+    text-align: start;
+    border-bottom: 1px solid #D1D1D1;
+}
+.btn-i{
+    margin-top: 25px;
+}
+.education-titale{
+    margin: 10px 20px;
+}
+.Harvard{
+    color: #757575;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.list{
+    color: #757575;
+    font-size: 16px;
+}
 
 
 
