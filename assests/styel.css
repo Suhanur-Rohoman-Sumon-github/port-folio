@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-titale{
+    font-weight: 800;
+    font-size: 45px;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+
+}
+
+nav ul{
+  display: flex;
+}
+nav li{
+    margin: 15px;
+}
+.btn-primary{
+    padding: 10px;
+    background-color: #FD6E0A;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 20px;
+}
+.btn-primary a{
+    color: aliceblue;
+}
