@@ -109,18 +109,23 @@ main{
     margin-top: 150px;
     padding: 60px;
     border-radius: 10px;
+    font-size: 15px;
 }
 
 .about-titale{
     text-transform: capitalize;
-    font-size: 45px;
+    
     margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 48px
     
 }
 
 .about-me-description{
     font-weight: 400;
     font-size: 18px;
+    color: #757575;
 }
 
 .about-info{
@@ -129,21 +134,44 @@ main{
 }
 
 .name{
-    margin: 11px;
+    margin: 30px;
     padding: 5px;
+    font-size: 15px;
 }
 
 .about-info-titale{
     color: #757575;
-    font-size: 25px;
+    font-size: 15px;
     text-transform: capitalize;
 }
 
 .about-info-sub-titale{
     color: #180505;
     text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+   
 }
 
+.what-i-doing{
+ margin: 0 auto;
+
+}
+.what-i-do{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.what-i-do-description{
+    font-size: 18px;
+    color: #757575;
+    margin-top: 30px;
+}
+.what-i-do-titale{
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 48px;
+}
 
 
 
